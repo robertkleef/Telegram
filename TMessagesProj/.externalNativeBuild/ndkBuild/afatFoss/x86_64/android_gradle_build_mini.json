@@ -1,0 +1,53 @@
+{
+  "buildFiles": [
+    "/Users/albertvankiel/Telegram/Telegram/TMessagesProj/jni/Android.mk",
+    "/Users/albertvankiel/Telegram/Telegram/TMessagesProj/jni/Application.mk"
+  ],
+  "cleanCommands": [
+    "/Users/albertvankiel/Library/Android/sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/albertvankiel/Telegram/Telegram/TMessagesProj/jni/Android.mk NDK_APPLICATION_MK\u003d/Users/albertvankiel/Telegram/Telegram/TMessagesProj/jni/Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/Users/albertvankiel/Telegram/Telegram/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj NDK_LIBS_OUT\u003d/Users/albertvankiel/Telegram/Telegram/TMessagesProj/build/intermediates/ndkBuild/afat/foss/lib NDK_APPLICATION_MK:\u003djni/Application.mk APP_PLATFORM:\u003dandroid-16 clean"
+  ],
+  "libraries": {
+    "tmessages.29-afatFoss-x86_64": {
+      "artifactName": "tmessages.29",
+      "buildCommand": "/Users/albertvankiel/Library/Android/sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/albertvankiel/Telegram/Telegram/TMessagesProj/jni/Android.mk NDK_APPLICATION_MK\u003d/Users/albertvankiel/Telegram/Telegram/TMessagesProj/jni/Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/Users/albertvankiel/Telegram/Telegram/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj NDK_LIBS_OUT\u003d/Users/albertvankiel/Telegram/Telegram/TMessagesProj/build/intermediates/ndkBuild/afat/foss/lib NDK_APPLICATION_MK:\u003djni/Application.mk APP_PLATFORM:\u003dandroid-16 -j8 /Users/albertvankiel/Telegram/Telegram/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj/local/x86_64/libtmessages.29.so",
+      "abi": "x86_64",
+      "output": "/Users/albertvankiel/Telegram/Telegram/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj/local/x86_64/libtmessages.29.so"
+    },
+    "tgnet-afatFoss-x86_64": {
+      "artifactName": "tgnet",
+      "buildCommand": "/Users/albertvankiel/Library/Android/sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/albertvankiel/Telegram/Telegram/TMessagesProj/jni/Android.mk NDK_APPLICATION_MK\u003d/Users/albertvankiel/Telegram/Telegram/TMessagesProj/jni/Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/Users/albertvankiel/Telegram/Telegram/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj NDK_LIBS_OUT\u003d/Users/albertvankiel/Telegram/Telegram/TMessagesProj/build/intermediates/ndkBuild/afat/foss/lib NDK_APPLICATION_MK:\u003djni/Application.mk APP_PLATFORM:\u003dandroid-16 -j8 /Users/albertvankiel/Telegram/Telegram/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj/local/x86_64/libtgnet.a",
+      "abi": "x86_64",
+      "output": "/Users/albertvankiel/Telegram/Telegram/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj/local/x86_64/libtgnet.a"
+    },
+    "cpufeatures-afatFoss-x86_64": {
+      "artifactName": "cpufeatures",
+      "buildCommand": "/Users/albertvankiel/Library/Android/sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/albertvankiel/Telegram/Telegram/TMessagesProj/jni/Android.mk NDK_APPLICATION_MK\u003d/Users/albertvankiel/Telegram/Telegram/TMessagesProj/jni/Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/Users/albertvankiel/Telegram/Telegram/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj NDK_LIBS_OUT\u003d/Users/albertvankiel/Telegram/Telegram/TMessagesProj/build/intermediates/ndkBuild/afat/foss/lib NDK_APPLICATION_MK:\u003djni/Application.mk APP_PLATFORM:\u003dandroid-16 -j8 /Users/albertvankiel/Telegram/Telegram/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj/local/x86_64/libcpufeatures.a",
+      "abi": "x86_64",
+      "output": "/Users/albertvankiel/Telegram/Telegram/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj/local/x86_64/libcpufeatures.a"
+    },
+    "sqlite-afatFoss-x86_64": {
+      "artifactName": "sqlite",
+      "buildCommand": "/Users/albertvankiel/Library/Android/sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/albertvankiel/Telegram/Telegram/TMessagesProj/jni/Android.mk NDK_APPLICATION_MK\u003d/Users/albertvankiel/Telegram/Telegram/TMessagesProj/jni/Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/Users/albertvankiel/Telegram/Telegram/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj NDK_LIBS_OUT\u003d/Users/albertvankiel/Telegram/Telegram/TMessagesProj/build/intermediates/ndkBuild/afat/foss/lib NDK_APPLICATION_MK:\u003djni/Application.mk APP_PLATFORM:\u003dandroid-16 -j8 /Users/albertvankiel/Telegram/Telegram/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj/local/x86_64/libsqlite.a",
+      "abi": "x86_64",
+      "output": "/Users/albertvankiel/Telegram/Telegram/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj/local/x86_64/libsqlite.a"
+    },
+    "voip-afatFoss-x86_64": {
+      "artifactName": "voip",
+      "buildCommand": "/Users/albertvankiel/Library/Android/sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/albertvankiel/Telegram/Telegram/TMessagesProj/jni/Android.mk NDK_APPLICATION_MK\u003d/Users/albertvankiel/Telegram/Telegram/TMessagesProj/jni/Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/Users/albertvankiel/Telegram/Telegram/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj NDK_LIBS_OUT\u003d/Users/albertvankiel/Telegram/Telegram/TMessagesProj/build/intermediates/ndkBuild/afat/foss/lib NDK_APPLICATION_MK:\u003djni/Application.mk APP_PLATFORM:\u003dandroid-16 -j8 /Users/albertvankiel/Telegram/Telegram/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj/local/x86_64/libvoip.a",
+      "abi": "x86_64",
+      "output": "/Users/albertvankiel/Telegram/Telegram/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj/local/x86_64/libvoip.a"
+    },
+    "webp-afatFoss-x86_64": {
+      "artifactName": "webp",
+      "buildCommand": "/Users/albertvankiel/Library/Android/sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/albertvankiel/Telegram/Telegram/TMessagesProj/jni/Android.mk NDK_APPLICATION_MK\u003d/Users/albertvankiel/Telegram/Telegram/TMessagesProj/jni/Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/Users/albertvankiel/Telegram/Telegram/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj NDK_LIBS_OUT\u003d/Users/albertvankiel/Telegram/Telegram/TMessagesProj/build/intermediates/ndkBuild/afat/foss/lib NDK_APPLICATION_MK:\u003djni/Application.mk APP_PLATFORM:\u003dandroid-16 -j8 /Users/albertvankiel/Telegram/Telegram/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj/local/x86_64/libwebp.a",
+      "abi": "x86_64",
+      "output": "/Users/albertvankiel/Telegram/Telegram/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj/local/x86_64/libwebp.a"
+    },
+    "flac-afatFoss-x86_64": {
+      "artifactName": "flac",
+      "buildCommand": "/Users/albertvankiel/Library/Android/sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/albertvankiel/Telegram/Telegram/TMessagesProj/jni/Android.mk NDK_APPLICATION_MK\u003d/Users/albertvankiel/Telegram/Telegram/TMessagesProj/jni/Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/Users/albertvankiel/Telegram/Telegram/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj NDK_LIBS_OUT\u003d/Users/albertvankiel/Telegram/Telegram/TMessagesProj/build/intermediates/ndkBuild/afat/foss/lib NDK_APPLICATION_MK:\u003djni/Application.mk APP_PLATFORM:\u003dandroid-16 -j8 /Users/albertvankiel/Telegram/Telegram/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj/local/x86_64/libflac.a",
+      "abi": "x86_64",
+      "output": "/Users/albertvankiel/Telegram/Telegram/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj/local/x86_64/libflac.a"
+    }
+  }
+}
